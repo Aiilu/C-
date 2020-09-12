@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\MetodosEstaticos\Ejercicio14\bin\Debug\Ejercicio14.exe.config
+C:\Users\Usuario\source\repos\MetodosEstaticos\Ejercicio14\bin\Debug\Ejercicio14.exe
+C:\Users\Usuario\source\repos\MetodosEstaticos\Ejercicio14\bin\Debug\Ejercicio14.pdb
+C:\Users\Usuario\source\repos\MetodosEstaticos\Ejercicio14\bin\Debug\Biblioteca4.dll
+C:\Users\Usuario\source\repos\MetodosEstaticos\Ejercicio14\bin\Debug\Biblioteca4.pdb
+C:\Users\Usuario\source\repos\MetodosEstaticos\Ejercicio14\obj\Debug\Ejercicio14.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\MetodosEstaticos\Ejercicio14\obj\Debug\Ejercicio14.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\MetodosEstaticos\Ejercicio14\obj\Debug\Ejercicio14.csproj.CopyComplete
+C:\Users\Usuario\source\repos\MetodosEstaticos\Ejercicio14\obj\Debug\Ejercicio14.exe
+C:\Users\Usuario\source\repos\MetodosEstaticos\Ejercicio14\obj\Debug\Ejercicio14.pdb

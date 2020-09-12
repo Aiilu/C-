@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\MetodosEstaticos\Biblioteca5\bin\Debug\Biblioteca5.dll
+C:\Users\Usuario\source\repos\MetodosEstaticos\Biblioteca5\bin\Debug\Biblioteca5.pdb
+C:\Users\Usuario\source\repos\MetodosEstaticos\Biblioteca5\obj\Debug\Biblioteca5.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\MetodosEstaticos\Biblioteca5\obj\Debug\Biblioteca5.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\MetodosEstaticos\Biblioteca5\obj\Debug\Biblioteca5.dll
+C:\Users\Usuario\source\repos\MetodosEstaticos\Biblioteca5\obj\Debug\Biblioteca5.pdb
