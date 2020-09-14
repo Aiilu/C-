@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\Ejercicio18\Ejercicio18\bin\Debug\Ejercicio18.exe.config
+C:\Users\Usuario\source\repos\Ejercicio18\Ejercicio18\bin\Debug\Ejercicio18.exe
+C:\Users\Usuario\source\repos\Ejercicio18\Ejercicio18\bin\Debug\Ejercicio18.pdb
+C:\Users\Usuario\source\repos\Ejercicio18\Ejercicio18\bin\Debug\Biblioteca.dll
+C:\Users\Usuario\source\repos\Ejercicio18\Ejercicio18\bin\Debug\Biblioteca.pdb
+C:\Users\Usuario\source\repos\Ejercicio18\Ejercicio18\obj\Debug\Ejercicio18.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejercicio18\Ejercicio18\obj\Debug\Ejercicio18.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejercicio18\Ejercicio18\obj\Debug\Ejercicio18.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Ejercicio18\Ejercicio18\obj\Debug\Ejercicio18.exe
+C:\Users\Usuario\source\repos\Ejercicio18\Ejercicio18\obj\Debug\Ejercicio18.pdb

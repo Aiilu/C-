@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\Clase4\Clase4\bin\Debug\Clase4.exe.config
+C:\Users\Usuario\source\repos\Clase4\Clase4\bin\Debug\Clase4.exe
+C:\Users\Usuario\source\repos\Clase4\Clase4\bin\Debug\Clase4.pdb
+C:\Users\Usuario\source\repos\Clase4\Clase4\bin\Debug\Biblioteca.dll
+C:\Users\Usuario\source\repos\Clase4\Clase4\bin\Debug\Biblioteca.pdb
+C:\Users\Usuario\source\repos\Clase4\Clase4\obj\Debug\Clase4.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Clase4\Clase4\obj\Debug\Clase4.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Clase4\Clase4\obj\Debug\Clase4.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Clase4\Clase4\obj\Debug\Clase4.exe
+C:\Users\Usuario\source\repos\Clase4\Clase4\obj\Debug\Clase4.pdb

@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\Ejercicio17\Ejercicio17\bin\Debug\Ejercicio17.exe.config
+C:\Users\Usuario\source\repos\Ejercicio17\Ejercicio17\bin\Debug\Ejercicio17.exe
+C:\Users\Usuario\source\repos\Ejercicio17\Ejercicio17\bin\Debug\Ejercicio17.pdb
+C:\Users\Usuario\source\repos\Ejercicio17\Ejercicio17\bin\Debug\Boligrafo.dll
+C:\Users\Usuario\source\repos\Ejercicio17\Ejercicio17\bin\Debug\Boligrafo.pdb
+C:\Users\Usuario\source\repos\Ejercicio17\Ejercicio17\obj\Debug\Ejercicio17.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejercicio17\Ejercicio17\obj\Debug\Ejercicio17.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejercicio17\Ejercicio17\obj\Debug\Ejercicio17.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Ejercicio17\Ejercicio17\obj\Debug\Ejercicio17.exe
+C:\Users\Usuario\source\repos\Ejercicio17\Ejercicio17\obj\Debug\Ejercicio17.pdb

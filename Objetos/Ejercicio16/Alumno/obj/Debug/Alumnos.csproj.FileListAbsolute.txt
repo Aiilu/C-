@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\Ejercicio16\Alumno\bin\Debug\Alumno.dll
+C:\Users\Usuario\source\repos\Ejercicio16\Alumno\bin\Debug\Alumno.pdb
+C:\Users\Usuario\source\repos\Ejercicio16\Alumno\obj\Debug\Alumnos.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejercicio16\Alumno\obj\Debug\Alumnos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejercicio16\Alumno\obj\Debug\Alumno.dll
+C:\Users\Usuario\source\repos\Ejercicio16\Alumno\obj\Debug\Alumno.pdb

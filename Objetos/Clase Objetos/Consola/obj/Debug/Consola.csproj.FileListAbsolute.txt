@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\Objetos\Consola\bin\Debug\Consola.exe.config
+C:\Users\Usuario\source\repos\Objetos\Consola\bin\Debug\Consola.exe
+C:\Users\Usuario\source\repos\Objetos\Consola\bin\Debug\Consola.pdb
+C:\Users\Usuario\source\repos\Objetos\Consola\bin\Debug\Biblioteca.dll
+C:\Users\Usuario\source\repos\Objetos\Consola\bin\Debug\Biblioteca.pdb
+C:\Users\Usuario\source\repos\Objetos\Consola\obj\Debug\Consola.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Objetos\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Objetos\Consola\obj\Debug\Consola.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Objetos\Consola\obj\Debug\Consola.exe
+C:\Users\Usuario\source\repos\Objetos\Consola\obj\Debug\Consola.pdb

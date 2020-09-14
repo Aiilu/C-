@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\ConsoleApp1\Repaso\bin\Debug\Repaso.dll
+C:\Users\Usuario\source\repos\ConsoleApp1\Repaso\bin\Debug\Repaso.pdb
+C:\Users\Usuario\source\repos\ConsoleApp1\Repaso\obj\Debug\Repaso.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\ConsoleApp1\Repaso\obj\Debug\Repaso.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ConsoleApp1\Repaso\obj\Debug\Repaso.dll
+C:\Users\Usuario\source\repos\ConsoleApp1\Repaso\obj\Debug\Repaso.pdb

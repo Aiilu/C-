@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\Clase5\Clase5\bin\Debug\Clase5.exe.config
+C:\Users\Usuario\source\repos\Clase5\Clase5\bin\Debug\Clase5.exe
+C:\Users\Usuario\source\repos\Clase5\Clase5\bin\Debug\Clase5.pdb
+C:\Users\Usuario\source\repos\Clase5\Clase5\obj\Debug\Clase5.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Clase5\Clase5\obj\Debug\Clase5.MorsitaF.resources
+C:\Users\Usuario\source\repos\Clase5\Clase5\obj\Debug\Clase5.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Clase5\Clase5\obj\Debug\Clase5.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Clase5\Clase5\obj\Debug\Clase5.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Clase5\Clase5\obj\Debug\Clase5.exe
+C:\Users\Usuario\source\repos\Clase5\Clase5\obj\Debug\Clase5.pdb
+C:\Users\Usuario\source\repos\Clase5\Clase5\obj\Debug\Clase5.Mensaje.resources
