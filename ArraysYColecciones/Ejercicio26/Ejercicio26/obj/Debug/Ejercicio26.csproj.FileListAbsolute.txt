@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\Ejercicio26\Ejercicio26\bin\Debug\Ejercicio26.exe.config
+C:\Users\Usuario\source\repos\Ejercicio26\Ejercicio26\bin\Debug\Ejercicio26.exe
+C:\Users\Usuario\source\repos\Ejercicio26\Ejercicio26\bin\Debug\Ejercicio26.pdb
+C:\Users\Usuario\source\repos\Ejercicio26\Ejercicio26\obj\Debug\Ejercicio26.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejercicio26\Ejercicio26\obj\Debug\Ejercicio26.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejercicio26\Ejercicio26\obj\Debug\Ejercicio26.exe
+C:\Users\Usuario\source\repos\Ejercicio26\Ejercicio26\obj\Debug\Ejercicio26.pdb
+C:\Users\Usuario\source\repos\Arrays\Ejercicio26\Ejercicio26\bin\Debug\Ejercicio26.exe.config
+C:\Users\Usuario\source\repos\Arrays\Ejercicio26\Ejercicio26\bin\Debug\Ejercicio26.exe
+C:\Users\Usuario\source\repos\Arrays\Ejercicio26\Ejercicio26\bin\Debug\Ejercicio26.pdb
+C:\Users\Usuario\source\repos\Arrays\Ejercicio26\Ejercicio26\obj\Debug\Ejercicio26.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Arrays\Ejercicio26\Ejercicio26\obj\Debug\Ejercicio26.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Arrays\Ejercicio26\Ejercicio26\obj\Debug\Ejercicio26.exe
+C:\Users\Usuario\source\repos\Arrays\Ejercicio26\Ejercicio26\obj\Debug\Ejercicio26.pdb
