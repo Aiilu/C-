@@ -1,0 +1,8 @@
+C:\Users\Usuario\source\repos\Ejercicio23\Moneda\obj\Debug\Moneda.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejercicio23\Moneda\obj\Debug\Moneda.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Form\Ejercicio23\Moneda\bin\Debug\Moneda.dll
+C:\Users\Usuario\source\repos\Form\Ejercicio23\Moneda\bin\Debug\Moneda.pdb
+C:\Users\Usuario\source\repos\Form\Ejercicio23\Moneda\obj\Debug\Moneda.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Form\Ejercicio23\Moneda\obj\Debug\Moneda.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Form\Ejercicio23\Moneda\obj\Debug\Moneda.dll
+C:\Users\Usuario\source\repos\Form\Ejercicio23\Moneda\obj\Debug\Moneda.pdb
