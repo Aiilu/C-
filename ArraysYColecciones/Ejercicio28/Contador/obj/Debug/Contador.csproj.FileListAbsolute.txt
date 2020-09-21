@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\Ejercicio28\Contador\bin\Debug\Contador.exe.config
+C:\Users\Usuario\source\repos\Ejercicio28\Contador\bin\Debug\Contador.exe
+C:\Users\Usuario\source\repos\Ejercicio28\Contador\bin\Debug\Contador.pdb
+C:\Users\Usuario\source\repos\Ejercicio28\Contador\obj\Debug\Contador.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejercicio28\Contador\obj\Debug\Contador.FormContador.resources
+C:\Users\Usuario\source\repos\Ejercicio28\Contador\obj\Debug\Contador.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Ejercicio28\Contador\obj\Debug\Contador.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Ejercicio28\Contador\obj\Debug\Contador.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejercicio28\Contador\obj\Debug\Contador.exe
+C:\Users\Usuario\source\repos\Ejercicio28\Contador\obj\Debug\Contador.pdb

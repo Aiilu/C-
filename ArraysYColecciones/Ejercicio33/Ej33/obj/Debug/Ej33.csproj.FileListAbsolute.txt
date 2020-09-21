@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\Ej33\Ej33\bin\Debug\Ej33.exe.config
+C:\Users\Usuario\source\repos\Ej33\Ej33\bin\Debug\Ej33.exe
+C:\Users\Usuario\source\repos\Ej33\Ej33\bin\Debug\Ej33.pdb
+C:\Users\Usuario\source\repos\Ej33\Ej33\bin\Debug\Entidades.dll
+C:\Users\Usuario\source\repos\Ej33\Ej33\bin\Debug\Entidades.pdb
+C:\Users\Usuario\source\repos\Ej33\Ej33\obj\Debug\Ej33.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Ej33\Ej33\obj\Debug\Ej33.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ej33\Ej33\obj\Debug\Ej33.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Ej33\Ej33\obj\Debug\Ej33.exe
+C:\Users\Usuario\source\repos\Ej33\Ej33\obj\Debug\Ej33.pdb

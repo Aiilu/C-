@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\Ejercicio29\Ejercicio29\bin\Debug\Ejercicio29.exe.config
+C:\Users\Usuario\source\repos\Ejercicio29\Ejercicio29\bin\Debug\Ejercicio29.exe
+C:\Users\Usuario\source\repos\Ejercicio29\Ejercicio29\bin\Debug\Ejercicio29.pdb
+C:\Users\Usuario\source\repos\Ejercicio29\Ejercicio29\bin\Debug\Entidades.dll
+C:\Users\Usuario\source\repos\Ejercicio29\Ejercicio29\bin\Debug\Entidades.pdb
+C:\Users\Usuario\source\repos\Ejercicio29\Ejercicio29\obj\Debug\Ejercicio29.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejercicio29\Ejercicio29\obj\Debug\Ejercicio29.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejercicio29\Ejercicio29\obj\Debug\Ejercicio29.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Ejercicio29\Ejercicio29\obj\Debug\Ejercicio29.exe
+C:\Users\Usuario\source\repos\Ejercicio29\Ejercicio29\obj\Debug\Ejercicio29.pdb

@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\Ejercicio30\Ejercicio30\bin\Debug\Ejercicio30.exe.config
+C:\Users\Usuario\source\repos\Ejercicio30\Ejercicio30\bin\Debug\Ejercicio30.exe
+C:\Users\Usuario\source\repos\Ejercicio30\Ejercicio30\bin\Debug\Ejercicio30.pdb
+C:\Users\Usuario\source\repos\Ejercicio30\Ejercicio30\bin\Debug\Entidades.dll
+C:\Users\Usuario\source\repos\Ejercicio30\Ejercicio30\bin\Debug\Entidades.pdb
+C:\Users\Usuario\source\repos\Ejercicio30\Ejercicio30\obj\Debug\Ejercicio30.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejercicio30\Ejercicio30\obj\Debug\Ejercicio30.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejercicio30\Ejercicio30\obj\Debug\Ejercicio30.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Ejercicio30\Ejercicio30\obj\Debug\Ejercicio30.exe
+C:\Users\Usuario\source\repos\Ejercicio30\Ejercicio30\obj\Debug\Ejercicio30.pdb
