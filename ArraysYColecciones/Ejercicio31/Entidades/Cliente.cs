@@ -11,7 +11,7 @@ namespace Entidades
         private string nombre;
         private int num;
 
-        public Cliente(int numero)
+        private Cliente(int numero)
         {
             this.num = numero;
         }

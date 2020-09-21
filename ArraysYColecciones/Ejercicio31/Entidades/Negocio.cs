@@ -78,6 +78,14 @@ namespace Entidades
             }
         }
 
+        public string ProximoCliente
+        {
+            get
+            {
+                return this.clientes.Peek().Nombre;
+            }
+        }
+
         public static bool operator ~(Negocio n)
         {
             //El valor de n.Cliente va a pasar a c (c = n.Cliente) osea que llamo al get.
