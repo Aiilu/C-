@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe.config
+C:\Users\Usuario\source\repos\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe
+C:\Users\Usuario\source\repos\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+C:\Users\Usuario\source\repos\CentralTelefonica\CentralitaHerencia\bin\Debug\Entidades.dll
+C:\Users\Usuario\source\repos\CentralTelefonica\CentralitaHerencia\bin\Debug\Entidades.pdb
+C:\Users\Usuario\source\repos\CentralTelefonica\CentralitaHerencia\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\CentralTelefonica\CentralitaHerencia\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\CentralTelefonica\CentralitaHerencia\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Usuario\source\repos\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.exe
+C:\Users\Usuario\source\repos\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
