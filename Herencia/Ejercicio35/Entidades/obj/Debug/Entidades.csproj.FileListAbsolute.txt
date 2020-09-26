@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\Ejercicio32\Entidades\bin\Debug\Entidades.dll
+C:\Users\Usuario\source\repos\Ejercicio32\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Usuario\source\repos\Ejercicio32\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejercicio32\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejercicio32\Entidades\obj\Debug\Entidades.dll
+C:\Users\Usuario\source\repos\Ejercicio32\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Usuario\source\repos\Ejercicio35\Entidades\bin\Debug\Entidades.dll
+C:\Users\Usuario\source\repos\Ejercicio35\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Usuario\source\repos\Ejercicio35\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejercicio35\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejercicio35\Entidades\obj\Debug\Entidades.dll
+C:\Users\Usuario\source\repos\Ejercicio35\Entidades\obj\Debug\Entidades.pdb

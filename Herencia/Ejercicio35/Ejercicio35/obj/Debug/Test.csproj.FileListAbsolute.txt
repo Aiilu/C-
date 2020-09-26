@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\Ejercicio35\Ejercicio35\bin\Debug\Ejercicio35.exe.config
+C:\Users\Usuario\source\repos\Ejercicio35\Ejercicio35\bin\Debug\Ejercicio35.exe
+C:\Users\Usuario\source\repos\Ejercicio35\Ejercicio35\bin\Debug\Ejercicio35.pdb
+C:\Users\Usuario\source\repos\Ejercicio35\Ejercicio35\bin\Debug\Entidades.dll
+C:\Users\Usuario\source\repos\Ejercicio35\Ejercicio35\bin\Debug\Entidades.pdb
+C:\Users\Usuario\source\repos\Ejercicio35\Ejercicio35\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejercicio35\Ejercicio35\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejercicio35\Ejercicio35\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Ejercicio35\Ejercicio35\obj\Debug\Ejercicio35.exe
+C:\Users\Usuario\source\repos\Ejercicio35\Ejercicio35\obj\Debug\Ejercicio35.pdb
