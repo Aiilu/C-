@@ -13,11 +13,20 @@ namespace MiForm
 {
     public partial class Menu : Form
     {
-        public Centralita c = new Centralita();
+        private Centralita c;
 
         public Menu()
         {
             InitializeComponent();
+            c = new Centralita();
+        }
+
+        private void btnGenerarLlamada_OnClick(object sender, EventArgs e)
+        {
+            FrmLlamador ll = new FrmLlamador(c);
+
+            ll.ShowDialog();
+
         }
     }
 }

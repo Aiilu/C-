@@ -13,7 +13,7 @@ namespace MiForm
 {
     public partial class FrmMostrar : Form
     {
-        public Centralita c;
+        private Centralita c;
 
         public FrmMostrar(Centralita c)
         {

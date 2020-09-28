@@ -44,6 +44,7 @@
             this.btnGenerarLlamada.TabIndex = 0;
             this.btnGenerarLlamada.Text = "Generar Llamada";
             this.btnGenerarLlamada.UseVisualStyleBackColor = true;
+            this.btnGenerarLlamada.Click += new System.EventHandler(this.btnGenerarLlamada_OnClick);
             // 
             // btnFactTotal
             // 
@@ -85,7 +86,7 @@
             this.btnSalir.Text = "Salir";
             this.btnSalir.UseVisualStyleBackColor = true;
             // 
-            // CentralTelefonica
+            // Menu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -96,7 +97,7 @@
             this.Controls.Add(this.btnFactTotal);
             this.Controls.Add(this.btnGenerarLlamada);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
-            this.Name = "CentralTelefonica";
+            this.Name = "Menu";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Central Telefonica";
             this.ResumeLayout(false);

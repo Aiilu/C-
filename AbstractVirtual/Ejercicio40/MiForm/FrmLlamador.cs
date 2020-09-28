@@ -13,7 +13,7 @@ namespace MiForm
 {
     public partial class FrmLlamador : Form
     {
-        public Centralita c;
+        private Centralita c;
 
         public FrmLlamador(Centralita c)
         {
@@ -28,6 +28,11 @@ namespace MiForm
             {
                 return this.c;
             }
+        }
+
+        private void btnSalir_OnClick(object sender, EventArgs e)
+        {
+
         }
     }
 }
