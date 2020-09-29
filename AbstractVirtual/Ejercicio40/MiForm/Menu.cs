@@ -27,6 +27,34 @@ namespace MiForm
 
             ll.ShowDialog();
 
+            this.c.OrdenarLlamadas();
+
+        }
+
+        private void btnMenuSalir_OnClick(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void btnFactTotal_OnClick(object sender, EventArgs e)
+        {
+            FrmMostrar m = new FrmMostrar(c);
+
+            m.ShowDialog();
+        }
+
+        private void btnFactLoc_OnClick(object sender, EventArgs e)
+        {
+            FrmMostrar m = new FrmMostrar(c);
+
+            m.ShowDialog();
+        }
+
+        private void btnFactProv_OnClick(object sender, EventArgs e)
+        {
+            FrmMostrar m = new FrmMostrar(c);
+            
+            m.ShowDialog(); 
         }
     }
 }

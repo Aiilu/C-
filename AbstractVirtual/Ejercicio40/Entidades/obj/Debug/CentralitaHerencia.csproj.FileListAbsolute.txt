@@ -16,3 +16,9 @@ C:\Users\Usuario\source\repos\AbstractVirtual\Ejercicio40\Entidades\obj\Debug\Ce
 C:\Users\Usuario\source\repos\AbstractVirtual\Ejercicio40\Entidades\obj\Debug\CentralitaHerencia.csproj.CoreCompileInputs.cache
 C:\Users\Usuario\source\repos\AbstractVirtual\Ejercicio40\Entidades\obj\Debug\Entidades.dll
 C:\Users\Usuario\source\repos\AbstractVirtual\Ejercicio40\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\Laboratorio_2\AbstractVirtual\Ejercicio40\Entidades\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\Laboratorio_2\AbstractVirtual\Ejercicio40\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\Laboratorio_2\AbstractVirtual\Ejercicio40\Entidades\obj\Debug\CentralitaHerencia.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Laboratorio_2\AbstractVirtual\Ejercicio40\Entidades\obj\Debug\CentralitaHerencia.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Laboratorio_2\AbstractVirtual\Ejercicio40\Entidades\obj\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\Laboratorio_2\AbstractVirtual\Ejercicio40\Entidades\obj\Debug\Entidades.pdb

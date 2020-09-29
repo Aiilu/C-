@@ -28,12 +28,31 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.rtb = new System.Windows.Forms.RichTextBox();
+            this.SuspendLayout();
+            // 
+            // rtb
+            // 
+            this.rtb.Location = new System.Drawing.Point(13, 13);
+            this.rtb.Name = "rtb";
+            this.rtb.Size = new System.Drawing.Size(376, 363);
+            this.rtb.TabIndex = 0;
+            this.rtb.Text = "";
+            // 
+            // FrmMostrar
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(410, 391);
+            this.Controls.Add(this.rtb);
+            this.Name = "FrmMostrar";
             this.Text = "FrmMostrar";
+            this.ResumeLayout(false);
+
         }
 
         #endregion
+
+        private System.Windows.Forms.RichTextBox rtb;
     }
 }

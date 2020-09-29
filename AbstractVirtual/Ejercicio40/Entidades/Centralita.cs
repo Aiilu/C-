@@ -131,6 +131,7 @@ namespace CentralitaHerencia
             datos.AppendLine($" Ganancia por Total: {this.GananciasPorTotal}");
             datos.AppendLine($" Ganancia por Local: {this.GananciasPorLocal}");
             datos.AppendLine($" Ganancia por Provincial: {this.GananciasPorProvincial}");
+            datos.AppendLine();
 
             foreach (Llamada llam in this.Llamadas)
             {

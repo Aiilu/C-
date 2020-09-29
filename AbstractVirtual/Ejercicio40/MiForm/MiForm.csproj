@@ -69,6 +69,9 @@
     <EmbeddedResource Include="FrmLlamador.resx">
       <DependentUpon>FrmLlamador.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FrmMostrar.resx">
+      <DependentUpon>FrmMostrar.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Menu.resx">
       <DependentUpon>Menu.cs</DependentUpon>
     </EmbeddedResource>
