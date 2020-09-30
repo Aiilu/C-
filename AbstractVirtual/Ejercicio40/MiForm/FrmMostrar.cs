@@ -15,17 +15,13 @@ namespace MiForm
     public partial class FrmMostrar : Form
     {
         private Llamada.TipoLlamada tipo;
-        private Centralita c;
-        private Provincial p;
-        private Local l;
 
-        public FrmMostrar(Centralita c)
+        public FrmMostrar(Centralita c, Llamada.TipoLlamada tipo)
         {
             InitializeComponent();
 
-            this.c = c;
-
-            this.MostrarResultados();
+            this.ObtTipo = tipo;
+            this.MostrarResultados(c);
         }
 
         public Llamada.TipoLlamada ObtTipo
@@ -36,20 +32,40 @@ namespace MiForm
             }
         }
 
-        private void MostrarResultados()
+        private void MostrarResultados(Centralita c)
         {
+            StringBuilder datos = new StringBuilder();
+
             if(this.tipo == Llamada.TipoLlamada.Provincial)
             {
-                this.rtb.Text = this.p.ToString();
+                datos.AppendLine($" Ganancia por Provincial: {c.GananciasPorProvincial}"); 
+
+                foreach(Llamada l in c.Llamadas)
+                {
+                    if (l is Provincial)
+                    {
+                        datos.AppendLine($"{l}");
+                    }
+                }
             }
             else if(this.tipo == Llamada.TipoLlamada.Local)
             {
-                this.rtb.Text = this.l.ToString();
+                datos.AppendLine($" Ganancia por Local: {c.GananciasPorLocal}");
+
+                foreach (Llamada l in c.Llamadas)
+                {
+                    if(l is Local)
+                    {
+                        datos.AppendLine($"{l}");
+                    }
+                }
             }
             else
             {
-                this.rtb.Text = this.c.ToString();
+                datos.AppendLine($"{c}");
             }
+
+            this.rtb.Text = datos.ToString();
         }
     }
 }

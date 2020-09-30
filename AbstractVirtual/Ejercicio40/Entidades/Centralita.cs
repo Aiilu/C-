@@ -103,8 +103,6 @@ namespace CentralitaHerencia
                     case Llamada.TipoLlamada.Local:
                         if (llam is Local)
                         {
-                            Local l = (Local)llam;
-
                             acum += llam.CostoLlamada;
                         }
                         break;
@@ -135,18 +133,7 @@ namespace CentralitaHerencia
 
             foreach (Llamada llam in this.Llamadas)
             {
-                if (llam is Local)
-                {
-                    Local l = (Local)llam;
-
-                    datos.AppendLine(l.ToString());
-                }
-                else if (llam is Provincial)
-                {
-                    Provincial p = (Provincial)llam;
-
-                    datos.AppendLine(p.ToString());
-                }
+                datos.AppendLine($"{llam}");
             }
 
             return datos.ToString();

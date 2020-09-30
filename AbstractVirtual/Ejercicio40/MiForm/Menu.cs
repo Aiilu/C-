@@ -38,21 +38,21 @@ namespace MiForm
 
         private void btnFactTotal_OnClick(object sender, EventArgs e)
         {
-            FrmMostrar m = new FrmMostrar(c);
+            FrmMostrar m = new FrmMostrar(c, Llamada.TipoLlamada.Todas);
 
             m.ShowDialog();
         }
 
         private void btnFactLoc_OnClick(object sender, EventArgs e)
         {
-            FrmMostrar m = new FrmMostrar(c);
+            FrmMostrar m = new FrmMostrar(c, Llamada.TipoLlamada.Local);
 
             m.ShowDialog();
         }
 
         private void btnFactProv_OnClick(object sender, EventArgs e)
         {
-            FrmMostrar m = new FrmMostrar(c);
+            FrmMostrar m = new FrmMostrar(c, Llamada.TipoLlamada.Provincial);
             
             m.ShowDialog(); 
         }
