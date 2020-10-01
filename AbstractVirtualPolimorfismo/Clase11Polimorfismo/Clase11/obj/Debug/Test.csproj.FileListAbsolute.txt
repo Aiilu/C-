@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\Clase11\Clase11\bin\Debug\Clase11.exe.config
+C:\Users\Usuario\source\repos\Clase11\Clase11\bin\Debug\Clase11.exe
+C:\Users\Usuario\source\repos\Clase11\Clase11\bin\Debug\Clase11.pdb
+C:\Users\Usuario\source\repos\Clase11\Clase11\bin\Debug\Entidades.dll
+C:\Users\Usuario\source\repos\Clase11\Clase11\bin\Debug\Entidades.pdb
+C:\Users\Usuario\source\repos\Clase11\Clase11\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Clase11\Clase11\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Clase11\Clase11\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Clase11\Clase11\obj\Debug\Clase11.exe
+C:\Users\Usuario\source\repos\Clase11\Clase11\obj\Debug\Clase11.pdb
