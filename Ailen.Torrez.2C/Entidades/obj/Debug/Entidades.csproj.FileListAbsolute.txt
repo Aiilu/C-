@@ -1,0 +1,6 @@
+C:\Users\lgm14\source\repos\Ailen.Torrez.2C\Entidades\bin\Debug\Entidades.dll
+C:\Users\lgm14\source\repos\Ailen.Torrez.2C\Entidades\bin\Debug\Entidades.pdb
+C:\Users\lgm14\source\repos\Ailen.Torrez.2C\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\lgm14\source\repos\Ailen.Torrez.2C\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lgm14\source\repos\Ailen.Torrez.2C\Entidades\obj\Debug\Entidades.dll
+C:\Users\lgm14\source\repos\Ailen.Torrez.2C\Entidades\obj\Debug\Entidades.pdb
