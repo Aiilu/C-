@@ -1,0 +1,10 @@
+C:\Users\Usuario\Desktop\Laboratorio_2\ModeloParcial\PrimerParcial\Cantina\TEST\bin\Debug\TEST.exe.config
+C:\Users\Usuario\Desktop\Laboratorio_2\ModeloParcial\PrimerParcial\Cantina\TEST\bin\Debug\TEST.exe
+C:\Users\Usuario\Desktop\Laboratorio_2\ModeloParcial\PrimerParcial\Cantina\TEST\bin\Debug\TEST.pdb
+C:\Users\Usuario\Desktop\Laboratorio_2\ModeloParcial\PrimerParcial\Cantina\TEST\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\Laboratorio_2\ModeloParcial\PrimerParcial\Cantina\TEST\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\Laboratorio_2\ModeloParcial\PrimerParcial\Cantina\TEST\obj\Debug\TEST.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Laboratorio_2\ModeloParcial\PrimerParcial\Cantina\TEST\obj\Debug\TEST.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Laboratorio_2\ModeloParcial\PrimerParcial\Cantina\TEST\obj\Debug\TEST.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Laboratorio_2\ModeloParcial\PrimerParcial\Cantina\TEST\obj\Debug\TEST.exe
+C:\Users\Usuario\Desktop\Laboratorio_2\ModeloParcial\PrimerParcial\Cantina\TEST\obj\Debug\TEST.pdb

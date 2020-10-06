@@ -1,0 +1,6 @@
+C:\Users\Usuario\Desktop\Laboratorio_2\ModeloParcial\Ailen.Torrez.2C\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Laboratorio_2\ModeloParcial\Ailen.Torrez.2C\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Laboratorio_2\ModeloParcial\Ailen.Torrez.2C\Entidades\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\Laboratorio_2\ModeloParcial\Ailen.Torrez.2C\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\Laboratorio_2\ModeloParcial\Ailen.Torrez.2C\Entidades\obj\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\Laboratorio_2\ModeloParcial\Ailen.Torrez.2C\Entidades\obj\Debug\Entidades.pdb

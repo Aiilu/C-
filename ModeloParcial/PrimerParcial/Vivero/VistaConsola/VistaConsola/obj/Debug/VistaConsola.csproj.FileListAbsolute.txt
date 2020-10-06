@@ -1,0 +1,10 @@
+C:\Users\Usuario\Desktop\Laboratorio_2\ModeloParcial\VistaConsola\VistaConsola\bin\Debug\VistaConsola.exe.config
+C:\Users\Usuario\Desktop\Laboratorio_2\ModeloParcial\VistaConsola\VistaConsola\bin\Debug\VistaConsola.exe
+C:\Users\Usuario\Desktop\Laboratorio_2\ModeloParcial\VistaConsola\VistaConsola\bin\Debug\VistaConsola.pdb
+C:\Users\Usuario\Desktop\Laboratorio_2\ModeloParcial\VistaConsola\VistaConsola\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\Laboratorio_2\ModeloParcial\VistaConsola\VistaConsola\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\Laboratorio_2\ModeloParcial\VistaConsola\VistaConsola\obj\Debug\VistaConsola.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Laboratorio_2\ModeloParcial\VistaConsola\VistaConsola\obj\Debug\VistaConsola.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Laboratorio_2\ModeloParcial\VistaConsola\VistaConsola\obj\Debug\VistaConsola.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Laboratorio_2\ModeloParcial\VistaConsola\VistaConsola\obj\Debug\VistaConsola.exe
+C:\Users\Usuario\Desktop\Laboratorio_2\ModeloParcial\VistaConsola\VistaConsola\obj\Debug\VistaConsola.pdb

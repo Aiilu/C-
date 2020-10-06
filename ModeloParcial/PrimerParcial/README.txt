@@ -1,0 +1,1 @@
+Van a necesitar esto en \20191010-PrimerParcial-2\bin\Debug
