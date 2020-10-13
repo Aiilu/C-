@@ -1,0 +1,6 @@
+C:\Users\Morsita\Desktop\Ailen.Torrez.2C\Entidades\bin\Debug\Entidades.dll
+C:\Users\Morsita\Desktop\Ailen.Torrez.2C\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Morsita\Desktop\Ailen.Torrez.2C\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Morsita\Desktop\Ailen.Torrez.2C\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Morsita\Desktop\Ailen.Torrez.2C\Entidades\obj\Debug\Entidades.dll
+C:\Users\Morsita\Desktop\Ailen.Torrez.2C\Entidades\obj\Debug\Entidades.pdb

@@ -1,0 +1,10 @@
+C:\Users\Morsita\Desktop\Ailen.Torrez.2C\Ailen.Torrez.2C\bin\Debug\Ailen.Torrez.2C.exe.config
+C:\Users\Morsita\Desktop\Ailen.Torrez.2C\Ailen.Torrez.2C\bin\Debug\Ailen.Torrez.2C.exe
+C:\Users\Morsita\Desktop\Ailen.Torrez.2C\Ailen.Torrez.2C\bin\Debug\Ailen.Torrez.2C.pdb
+C:\Users\Morsita\Desktop\Ailen.Torrez.2C\Ailen.Torrez.2C\bin\Debug\Entidades.dll
+C:\Users\Morsita\Desktop\Ailen.Torrez.2C\Ailen.Torrez.2C\bin\Debug\Entidades.pdb
+C:\Users\Morsita\Desktop\Ailen.Torrez.2C\Ailen.Torrez.2C\obj\Debug\VistaConsola.csprojAssemblyReference.cache
+C:\Users\Morsita\Desktop\Ailen.Torrez.2C\Ailen.Torrez.2C\obj\Debug\VistaConsola.csproj.CoreCompileInputs.cache
+C:\Users\Morsita\Desktop\Ailen.Torrez.2C\Ailen.Torrez.2C\obj\Debug\VistaConsola.csproj.CopyComplete
+C:\Users\Morsita\Desktop\Ailen.Torrez.2C\Ailen.Torrez.2C\obj\Debug\Ailen.Torrez.2C.exe
+C:\Users\Morsita\Desktop\Ailen.Torrez.2C\Ailen.Torrez.2C\obj\Debug\Ailen.Torrez.2C.pdb

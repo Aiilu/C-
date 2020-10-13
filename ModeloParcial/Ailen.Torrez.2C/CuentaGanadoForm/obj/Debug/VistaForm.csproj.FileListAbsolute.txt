@@ -1,0 +1,15 @@
+C:\Users\Morsita\Desktop\Ailen.Torrez.2C\CuentaGanadoForm\bin\Debug\CuentaGanadoForm.exe.config
+C:\Users\Morsita\Desktop\Ailen.Torrez.2C\CuentaGanadoForm\bin\Debug\CuentaGanadoForm.exe
+C:\Users\Morsita\Desktop\Ailen.Torrez.2C\CuentaGanadoForm\bin\Debug\CuentaGanadoForm.pdb
+C:\Users\Morsita\Desktop\Ailen.Torrez.2C\CuentaGanadoForm\bin\Debug\Entidades.dll
+C:\Users\Morsita\Desktop\Ailen.Torrez.2C\CuentaGanadoForm\bin\Debug\Entidades.pdb
+C:\Users\Morsita\Desktop\Ailen.Torrez.2C\CuentaGanadoForm\obj\Debug\VistaForm.csprojAssemblyReference.cache
+C:\Users\Morsita\Desktop\Ailen.Torrez.2C\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.CuentaGanadoForm.resources
+C:\Users\Morsita\Desktop\Ailen.Torrez.2C\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.Properties.Resources.resources
+C:\Users\Morsita\Desktop\Ailen.Torrez.2C\CuentaGanadoForm\obj\Debug\VistaForm.csproj.GenerateResource.cache
+C:\Users\Morsita\Desktop\Ailen.Torrez.2C\CuentaGanadoForm\obj\Debug\VistaForm.csproj.CoreCompileInputs.cache
+C:\Users\Morsita\Desktop\Ailen.Torrez.2C\CuentaGanadoForm\obj\Debug\VistaForm.csproj.CopyComplete
+C:\Users\Morsita\Desktop\Ailen.Torrez.2C\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.exe
+C:\Users\Morsita\Desktop\Ailen.Torrez.2C\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.pdb
+C:\Users\Morsita\Desktop\Ailen.Torrez.2C\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.SalidaDeTest.resources
+C:\Users\Morsita\Desktop\Ailen.Torrez.2C\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.Datos.resources
