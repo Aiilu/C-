@@ -1,0 +1,6 @@
+C:\Users\Morsita\source\repos\Test\BibliotecaClases\bin\Debug\BibliotecaClases.dll
+C:\Users\Morsita\source\repos\Test\BibliotecaClases\bin\Debug\BibliotecaClases.pdb
+C:\Users\Morsita\source\repos\Test\BibliotecaClases\obj\Debug\BibliotecaClases.csprojAssemblyReference.cache
+C:\Users\Morsita\source\repos\Test\BibliotecaClases\obj\Debug\BibliotecaClases.csproj.CoreCompileInputs.cache
+C:\Users\Morsita\source\repos\Test\BibliotecaClases\obj\Debug\BibliotecaClases.dll
+C:\Users\Morsita\source\repos\Test\BibliotecaClases\obj\Debug\BibliotecaClases.pdb

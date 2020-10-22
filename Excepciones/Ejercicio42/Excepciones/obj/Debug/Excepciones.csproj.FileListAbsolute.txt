@@ -1,0 +1,6 @@
+C:\Users\Morsita\source\repos\Ejercicio42\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Morsita\source\repos\Ejercicio42\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Morsita\source\repos\Ejercicio42\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\Morsita\source\repos\Ejercicio42\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Morsita\source\repos\Ejercicio42\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Morsita\source\repos\Ejercicio42\Excepciones\obj\Debug\Excepciones.pdb

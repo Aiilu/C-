@@ -1,0 +1,10 @@
+C:\Users\Morsita\source\repos\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Morsita\source\repos\Test\Test\bin\Debug\Test.exe
+C:\Users\Morsita\source\repos\Test\Test\bin\Debug\Test.pdb
+C:\Users\Morsita\source\repos\Test\Test\bin\Debug\BibliotecaClases.dll
+C:\Users\Morsita\source\repos\Test\Test\bin\Debug\BibliotecaClases.pdb
+C:\Users\Morsita\source\repos\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Morsita\source\repos\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Morsita\source\repos\Test\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Morsita\source\repos\Test\Test\obj\Debug\Test.exe
+C:\Users\Morsita\source\repos\Test\Test\obj\Debug\Test.pdb
