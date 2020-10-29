@@ -14,5 +14,10 @@ namespace Entidades
         {
             this.numero = numero;
         }
+
+        public override string ToString()
+        {
+            return $"Numero: {this.numero}";
+        }
     }
 }

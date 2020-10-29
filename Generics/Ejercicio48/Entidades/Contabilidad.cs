@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -19,7 +20,7 @@ namespace Entidades
             this.ingresos = new List<U>();
         }
 
-        public static Contabilidad<T, U> operator +(Contabilidad<T,U> c, T egreso)
+        public static Contabilidad<T,U> operator +(Contabilidad<T,U> c, T egreso)
         {
             c.egresos.Add(egreso);
             return c;
@@ -29,6 +30,28 @@ namespace Entidades
         {
             c.ingresos.Add(ingreso);
             return c;
+        }
+
+        public override string ToString()
+        {
+            StringBuilder datos = new StringBuilder();
+
+            datos.AppendLine("Ingresos: ");
+
+            foreach(U u in this.ingresos)
+            {
+                datos.AppendLine(u.ToString());
+            }
+
+            datos.AppendLine();
+            datos.AppendLine("Egresos: ");
+
+            foreach (T t in this.egresos)
+            {
+                datos.AppendLine(t.ToString());
+            }
+
+            return datos.ToString();
         }
     }
 }

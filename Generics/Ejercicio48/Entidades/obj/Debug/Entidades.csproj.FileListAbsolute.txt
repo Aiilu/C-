@@ -1,0 +1,6 @@
+C:\Users\Morsita\source\repos\Ejercicio48\Entidades\bin\Debug\Entidades.dll
+C:\Users\Morsita\source\repos\Ejercicio48\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Morsita\source\repos\Ejercicio48\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Morsita\source\repos\Ejercicio48\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Morsita\source\repos\Ejercicio48\Entidades\obj\Debug\Entidades.dll
+C:\Users\Morsita\source\repos\Ejercicio48\Entidades\obj\Debug\Entidades.pdb

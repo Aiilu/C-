@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{92E35D89-3948-40C0-9B55-88EF363C4AFF}</ProjectGuid>
+    <ProjectGuid>{7DD5E009-1AB2-4F99-81C8-7593BA4DE108}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Test</RootNamespace>
     <AssemblyName>Test</AssemblyName>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="Test.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -51,7 +51,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Entidades\Entidades.csproj">
-      <Project>{54bb76b4-d74e-4713-9f85-454c8473ce83}</Project>
+      <Project>{62dd9297-1f23-4020-a72a-c77a6b18ec30}</Project>
       <Name>Entidades</Name>
     </ProjectReference>
   </ItemGroup>

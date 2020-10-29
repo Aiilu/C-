@@ -1,0 +1,10 @@
+C:\Users\Morsita\Desktop\Laboratorio_2\Generics\Ejercicio47\Ejercicio47\bin\Debug\Ejercicio47.exe.config
+C:\Users\Morsita\Desktop\Laboratorio_2\Generics\Ejercicio47\Ejercicio47\bin\Debug\Ejercicio47.exe
+C:\Users\Morsita\Desktop\Laboratorio_2\Generics\Ejercicio47\Ejercicio47\bin\Debug\Ejercicio47.pdb
+C:\Users\Morsita\Desktop\Laboratorio_2\Generics\Ejercicio47\Ejercicio47\bin\Debug\Entidades.dll
+C:\Users\Morsita\Desktop\Laboratorio_2\Generics\Ejercicio47\Ejercicio47\bin\Debug\Entidades.pdb
+C:\Users\Morsita\Desktop\Laboratorio_2\Generics\Ejercicio47\Ejercicio47\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Morsita\Desktop\Laboratorio_2\Generics\Ejercicio47\Ejercicio47\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Morsita\Desktop\Laboratorio_2\Generics\Ejercicio47\Ejercicio47\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Morsita\Desktop\Laboratorio_2\Generics\Ejercicio47\Ejercicio47\obj\Debug\Ejercicio47.exe
+C:\Users\Morsita\Desktop\Laboratorio_2\Generics\Ejercicio47\Ejercicio47\obj\Debug\Ejercicio47.pdb
