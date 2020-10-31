@@ -7,7 +7,7 @@ using Entidades;
 
 namespace Test
 {
-    public class Program
+    public class Test
     {
         static void Main(string[] args)
         {
@@ -20,7 +20,9 @@ namespace Test
             Console.WriteLine(eBoligrafo.texto);
             Console.ForegroundColor = colorOriginal;
             Console.WriteLine(miBoligrafo);
-            
+
+            miBoligrafo.Recargar(10);
+            Console.WriteLine(miBoligrafo.UnidadesDeEscritura);
 
             Lapiz miLapiz = new Lapiz(10);
 
@@ -29,6 +31,7 @@ namespace Test
             Console.WriteLine(eLapiz.texto);
             Console.ForegroundColor = colorOriginal;
             Console.WriteLine(miLapiz);
+
 
             Console.ReadKey();
         }

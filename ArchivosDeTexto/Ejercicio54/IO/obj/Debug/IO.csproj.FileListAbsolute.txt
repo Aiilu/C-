@@ -1,0 +1,6 @@
+C:\Users\Morsita\Desktop\Laboratorio_2\ArchivosDeTexto\Ejercicio54\IO\bin\Debug\IO.dll
+C:\Users\Morsita\Desktop\Laboratorio_2\ArchivosDeTexto\Ejercicio54\IO\bin\Debug\IO.pdb
+C:\Users\Morsita\Desktop\Laboratorio_2\ArchivosDeTexto\Ejercicio54\IO\obj\Debug\IO.csprojAssemblyReference.cache
+C:\Users\Morsita\Desktop\Laboratorio_2\ArchivosDeTexto\Ejercicio54\IO\obj\Debug\IO.csproj.CoreCompileInputs.cache
+C:\Users\Morsita\Desktop\Laboratorio_2\ArchivosDeTexto\Ejercicio54\IO\obj\Debug\IO.dll
+C:\Users\Morsita\Desktop\Laboratorio_2\ArchivosDeTexto\Ejercicio54\IO\obj\Debug\IO.pdb
