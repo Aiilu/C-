@@ -14,24 +14,25 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            string fecha = DateTime.Now.ToString("yyyyMMdd-HHMM");
+            Console.WriteLine("Ingrese un numero:");
+            Console.WriteLine("1) guardarlo en el escritorio");
+            Console.WriteLine("Otro para guardarlo por default");
+
+            string path = null;
+
+            if (Console.ReadLine() == "1")
+            {
+                path = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + @"\" + DateTime.Now.ToString("yyyyMMdd-HHmm") + ".txt";
+            }
+            else
+            {
+                path = DateTime.Now.ToString("yyyyMMdd-HHmm") + ".txt";
+            }
 
             try
             {
-                ArchivoTexto.Leer("", fecha);
-            }
-            catch(FileNotFoundException ex)
-            {
-                ArchivoTexto.Guardar("", ex.ToString(), fecha);
-            }
-
-            Console.WriteLine(ArchivoTexto.Leer("", fecha));
-
-            /*try
-            {
                 OtraClase a = new OtraClase();
                 a.OtraClaseInstancia();
-                Console.WriteLine("hoola");
             }
             catch(MiExcepcion ex)
             {
@@ -39,12 +40,21 @@ namespace Test
 
                 while(excep != null)
                 {
-                    Console.WriteLine(excep.Message);
+                    ArchivoTexto.Guardar(path, excep.Message);
                     excep = excep.InnerException;
                 }
             }
 
-            Console.WriteLine("hoola!!!!!!!!!!");*/
+            try
+            {
+                ArchivoTexto.Leer(path);
+            }
+            catch (FileNotFoundException ex)
+            {
+                ArchivoTexto.Guardar(path, ex.ToString());
+            }
+
+            Console.WriteLine(ArchivoTexto.Leer(path));
 
             Console.ReadKey();
         }
