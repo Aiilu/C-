@@ -1,0 +1,57 @@
+C:\Users\lgm14\Desktop\Laboratorio_2\AbstractVirtual\Ejercicio40\MiForm\bin\Debug\MiForm.exe.config
+C:\Users\lgm14\Desktop\Laboratorio_2\AbstractVirtual\Ejercicio40\MiForm\bin\Debug\MiForm.exe
+C:\Users\lgm14\Desktop\Laboratorio_2\AbstractVirtual\Ejercicio40\MiForm\bin\Debug\MiForm.pdb
+C:\Users\lgm14\Desktop\Laboratorio_2\AbstractVirtual\Ejercicio40\MiForm\bin\Debug\Entidades.dll
+C:\Users\lgm14\Desktop\Laboratorio_2\AbstractVirtual\Ejercicio40\MiForm\bin\Debug\Entidades.pdb
+C:\Users\lgm14\Desktop\Laboratorio_2\AbstractVirtual\Ejercicio40\MiForm\obj\Debug\MiForm.csprojAssemblyReference.cache
+C:\Users\lgm14\Desktop\Laboratorio_2\AbstractVirtual\Ejercicio40\MiForm\obj\Debug\MiForm.Menu.resources
+C:\Users\lgm14\Desktop\Laboratorio_2\AbstractVirtual\Ejercicio40\MiForm\obj\Debug\MiForm.Properties.Resources.resources
+C:\Users\lgm14\Desktop\Laboratorio_2\AbstractVirtual\Ejercicio40\MiForm\obj\Debug\MiForm.csproj.GenerateResource.cache
+C:\Users\lgm14\Desktop\Laboratorio_2\AbstractVirtual\Ejercicio40\MiForm\obj\Debug\MiForm.csproj.CoreCompileInputs.cache
+C:\Users\lgm14\Desktop\Laboratorio_2\AbstractVirtual\Ejercicio40\MiForm\obj\Debug\MiForm.csproj.CopyComplete
+C:\Users\lgm14\Desktop\Laboratorio_2\AbstractVirtual\Ejercicio40\MiForm\obj\Debug\MiForm.exe
+C:\Users\lgm14\Desktop\Laboratorio_2\AbstractVirtual\Ejercicio40\MiForm\obj\Debug\MiForm.pdb
+C:\Users\lgm14\Desktop\Laboratorio_2\AbstractVirtual\Ejercicio40 - copia\MiForm\bin\Debug\MiForm.exe.config
+C:\Users\lgm14\Desktop\Laboratorio_2\AbstractVirtual\Ejercicio40 - copia\MiForm\bin\Debug\MiForm.exe
+C:\Users\lgm14\Desktop\Laboratorio_2\AbstractVirtual\Ejercicio40 - copia\MiForm\bin\Debug\MiForm.pdb
+C:\Users\lgm14\Desktop\Laboratorio_2\AbstractVirtual\Ejercicio40 - copia\MiForm\bin\Debug\Entidades.dll
+C:\Users\lgm14\Desktop\Laboratorio_2\AbstractVirtual\Ejercicio40 - copia\MiForm\bin\Debug\Entidades.pdb
+C:\Users\lgm14\Desktop\Laboratorio_2\AbstractVirtual\Ejercicio40 - copia\MiForm\obj\Debug\MiForm.csprojAssemblyReference.cache
+C:\Users\lgm14\Desktop\Laboratorio_2\AbstractVirtual\Ejercicio40 - copia\MiForm\obj\Debug\MiForm.FrmLlamador.resources
+C:\Users\lgm14\Desktop\Laboratorio_2\AbstractVirtual\Ejercicio40 - copia\MiForm\obj\Debug\MiForm.Menu.resources
+C:\Users\lgm14\Desktop\Laboratorio_2\AbstractVirtual\Ejercicio40 - copia\MiForm\obj\Debug\MiForm.Properties.Resources.resources
+C:\Users\lgm14\Desktop\Laboratorio_2\AbstractVirtual\Ejercicio40 - copia\MiForm\obj\Debug\MiForm.csproj.GenerateResource.cache
+C:\Users\lgm14\Desktop\Laboratorio_2\AbstractVirtual\Ejercicio40 - copia\MiForm\obj\Debug\MiForm.csproj.CoreCompileInputs.cache
+C:\Users\lgm14\Desktop\Laboratorio_2\AbstractVirtual\Ejercicio40 - copia\MiForm\obj\Debug\MiForm.csproj.CopyComplete
+C:\Users\lgm14\Desktop\Laboratorio_2\AbstractVirtual\Ejercicio40 - copia\MiForm\obj\Debug\MiForm.exe
+C:\Users\lgm14\Desktop\Laboratorio_2\AbstractVirtual\Ejercicio40 - copia\MiForm\obj\Debug\MiForm.pdb
+C:\Users\Usuario\Desktop\Laboratorio_2\AbstractVirtual\Ejercicio40\MiForm\bin\Debug\MiForm.exe.config
+C:\Users\Usuario\Desktop\Laboratorio_2\AbstractVirtual\Ejercicio40\MiForm\bin\Debug\MiForm.exe
+C:\Users\Usuario\Desktop\Laboratorio_2\AbstractVirtual\Ejercicio40\MiForm\bin\Debug\MiForm.pdb
+C:\Users\Usuario\Desktop\Laboratorio_2\AbstractVirtual\Ejercicio40\MiForm\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\Laboratorio_2\AbstractVirtual\Ejercicio40\MiForm\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\Laboratorio_2\AbstractVirtual\Ejercicio40\MiForm\obj\Debug\MiForm.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Laboratorio_2\AbstractVirtual\Ejercicio40\MiForm\obj\Debug\MiForm.FrmLlamador.resources
+C:\Users\Usuario\Desktop\Laboratorio_2\AbstractVirtual\Ejercicio40\MiForm\obj\Debug\MiForm.Menu.resources
+C:\Users\Usuario\Desktop\Laboratorio_2\AbstractVirtual\Ejercicio40\MiForm\obj\Debug\MiForm.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Laboratorio_2\AbstractVirtual\Ejercicio40\MiForm\obj\Debug\MiForm.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Laboratorio_2\AbstractVirtual\Ejercicio40\MiForm\obj\Debug\MiForm.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Laboratorio_2\AbstractVirtual\Ejercicio40\MiForm\obj\Debug\MiForm.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Laboratorio_2\AbstractVirtual\Ejercicio40\MiForm\obj\Debug\MiForm.exe
+C:\Users\Usuario\Desktop\Laboratorio_2\AbstractVirtual\Ejercicio40\MiForm\obj\Debug\MiForm.pdb
+C:\Users\Usuario\Desktop\Laboratorio_2\AbstractVirtual\Ejercicio40\MiForm\obj\Debug\MiForm.FrmMostrar.resources
+C:\Users\Morsita\Desktop\Laboratorio_2\Excepciones\Ejercicio40\MiForm\bin\Debug\MiForm.exe.config
+C:\Users\Morsita\Desktop\Laboratorio_2\Excepciones\Ejercicio40\MiForm\bin\Debug\MiForm.exe
+C:\Users\Morsita\Desktop\Laboratorio_2\Excepciones\Ejercicio40\MiForm\bin\Debug\MiForm.pdb
+C:\Users\Morsita\Desktop\Laboratorio_2\Excepciones\Ejercicio40\MiForm\bin\Debug\Entidades.dll
+C:\Users\Morsita\Desktop\Laboratorio_2\Excepciones\Ejercicio40\MiForm\bin\Debug\Entidades.pdb
+C:\Users\Morsita\Desktop\Laboratorio_2\Excepciones\Ejercicio40\MiForm\obj\Debug\MiForm.csprojAssemblyReference.cache
+C:\Users\Morsita\Desktop\Laboratorio_2\Excepciones\Ejercicio40\MiForm\obj\Debug\MiForm.FrmLlamador.resources
+C:\Users\Morsita\Desktop\Laboratorio_2\Excepciones\Ejercicio40\MiForm\obj\Debug\MiForm.FrmMostrar.resources
+C:\Users\Morsita\Desktop\Laboratorio_2\Excepciones\Ejercicio40\MiForm\obj\Debug\MiForm.Menu.resources
+C:\Users\Morsita\Desktop\Laboratorio_2\Excepciones\Ejercicio40\MiForm\obj\Debug\MiForm.Properties.Resources.resources
+C:\Users\Morsita\Desktop\Laboratorio_2\Excepciones\Ejercicio40\MiForm\obj\Debug\MiForm.csproj.GenerateResource.cache
+C:\Users\Morsita\Desktop\Laboratorio_2\Excepciones\Ejercicio40\MiForm\obj\Debug\MiForm.csproj.CoreCompileInputs.cache
+C:\Users\Morsita\Desktop\Laboratorio_2\Excepciones\Ejercicio40\MiForm\obj\Debug\MiForm.csproj.CopyComplete
+C:\Users\Morsita\Desktop\Laboratorio_2\Excepciones\Ejercicio40\MiForm\obj\Debug\MiForm.exe
+C:\Users\Morsita\Desktop\Laboratorio_2\Excepciones\Ejercicio40\MiForm\obj\Debug\MiForm.pdb
