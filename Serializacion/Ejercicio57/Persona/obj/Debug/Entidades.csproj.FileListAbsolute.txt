@@ -4,3 +4,9 @@ C:\Users\lgm14\Desktop\Laboratorio_2\Ejercicio57\Persona\obj\Debug\Entidades.csp
 C:\Users\lgm14\Desktop\Laboratorio_2\Ejercicio57\Persona\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\lgm14\Desktop\Laboratorio_2\Ejercicio57\Persona\obj\Debug\Persona.dll
 C:\Users\lgm14\Desktop\Laboratorio_2\Ejercicio57\Persona\obj\Debug\Persona.pdb
+C:\Users\lgm14\Desktop\Laboratorio_2\Serializacion\Ejercicio57\Persona\bin\Debug\Persona.dll
+C:\Users\lgm14\Desktop\Laboratorio_2\Serializacion\Ejercicio57\Persona\bin\Debug\Persona.pdb
+C:\Users\lgm14\Desktop\Laboratorio_2\Serializacion\Ejercicio57\Persona\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\lgm14\Desktop\Laboratorio_2\Serializacion\Ejercicio57\Persona\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lgm14\Desktop\Laboratorio_2\Serializacion\Ejercicio57\Persona\obj\Debug\Persona.dll
+C:\Users\lgm14\Desktop\Laboratorio_2\Serializacion\Ejercicio57\Persona\obj\Debug\Persona.pdb

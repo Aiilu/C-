@@ -79,7 +79,7 @@ namespace CentralitaHerencia
                 }
                 catch (Exception ex)
                 {
-
+                    throw ex;
                 }
             }
             else
@@ -165,15 +165,10 @@ namespace CentralitaHerencia
         {
             StreamWriter steam = null; //Para tenerlo declarado desde fuera y poder usarlo en el finally.
 
-            if(!Directory.Exists("")) //Pones vacio o no lo pones cuando es el x defecto
-            {
-                throw new FileNotFoundException();
-            }
-
             try
             {
                 steam = new StreamWriter("Bitacora.txt", true); //Esto es abrir el archivo, open.
-                steam.WriteLine(DateTime.Now.ToString("D t") + "-Se realizo una llamada"); //Escribe el archivo
+                steam.WriteLine(DateTime.Now.ToString("f") + "hs -Se realizo una llamada"); //Escribe el archivo
                 return true;
             }
             finally //Esto siempre se ejecuta

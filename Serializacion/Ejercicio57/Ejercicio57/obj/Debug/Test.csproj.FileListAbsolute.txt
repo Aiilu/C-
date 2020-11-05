@@ -8,3 +8,13 @@ C:\Users\lgm14\Desktop\Laboratorio_2\Ejercicio57\Ejercicio57\obj\Debug\Test.cspr
 C:\Users\lgm14\Desktop\Laboratorio_2\Ejercicio57\Ejercicio57\obj\Debug\Test.csproj.CopyComplete
 C:\Users\lgm14\Desktop\Laboratorio_2\Ejercicio57\Ejercicio57\obj\Debug\Ejercicio57.exe
 C:\Users\lgm14\Desktop\Laboratorio_2\Ejercicio57\Ejercicio57\obj\Debug\Ejercicio57.pdb
+C:\Users\lgm14\Desktop\Laboratorio_2\Serializacion\Ejercicio57\Ejercicio57\bin\Debug\Ejercicio57.exe.config
+C:\Users\lgm14\Desktop\Laboratorio_2\Serializacion\Ejercicio57\Ejercicio57\bin\Debug\Ejercicio57.exe
+C:\Users\lgm14\Desktop\Laboratorio_2\Serializacion\Ejercicio57\Ejercicio57\bin\Debug\Ejercicio57.pdb
+C:\Users\lgm14\Desktop\Laboratorio_2\Serializacion\Ejercicio57\Ejercicio57\bin\Debug\Persona.dll
+C:\Users\lgm14\Desktop\Laboratorio_2\Serializacion\Ejercicio57\Ejercicio57\bin\Debug\Persona.pdb
+C:\Users\lgm14\Desktop\Laboratorio_2\Serializacion\Ejercicio57\Ejercicio57\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\lgm14\Desktop\Laboratorio_2\Serializacion\Ejercicio57\Ejercicio57\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\lgm14\Desktop\Laboratorio_2\Serializacion\Ejercicio57\Ejercicio57\obj\Debug\Test.csproj.CopyComplete
+C:\Users\lgm14\Desktop\Laboratorio_2\Serializacion\Ejercicio57\Ejercicio57\obj\Debug\Ejercicio57.exe
+C:\Users\lgm14\Desktop\Laboratorio_2\Serializacion\Ejercicio57\Ejercicio57\obj\Debug\Ejercicio57.pdb

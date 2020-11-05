@@ -14,16 +14,16 @@ namespace Test
         {
             Console.WriteLine("ESTO ES EN XML");
 
-            PersonaText p1 = new PersonaText("Ailen", "Torrez");
+            PersonaXml p1 = new PersonaXml("Ailen", "Torrez");
             
             Console.WriteLine(p1.ToString());
-            PersonaText.Guardar(p1);
+            PersonaXml.Guardar(p1);
 
             Console.WriteLine("--------------------------");
 
-            PersonaText p2 = null;
+            PersonaXml p2 = null;
 
-            p2 = PersonaText.Leer();
+            p2 = PersonaXml.Leer();
             Console.WriteLine(p2.ToString());
 
             Console.ReadKey();

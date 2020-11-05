@@ -10,12 +10,12 @@ using System.Xml.Serialization;
 
 namespace Entidades
 {
-    public class PersonaText
+    public class PersonaXml
     {
         private string nombre;
         private string apellido;
 
-        public PersonaText()
+        public PersonaXml()
         {
 
         }
@@ -44,13 +44,13 @@ namespace Entidades
             }
         }
 
-        public PersonaText(string nombre, string apellido)
+        public PersonaXml(string nombre, string apellido)
         {
             this.nombre = nombre;
             this.apellido = apellido;
         }
 
-        public static void Guardar(PersonaText p) //Convierte el object en xml
+        public static void Guardar(PersonaXml p) //Convierte el object en xml
         {
             XmlTextWriter writer = null;
             XmlSerializer serializar = null;
@@ -59,7 +59,7 @@ namespace Entidades
             {
                 writer = new XmlTextWriter("Persona.xml", Encoding.UTF8); //Como va a abrir el archivo para escribir
                 writer.Formatting = Formatting.Indented;
-                serializar = new XmlSerializer(typeof(PersonaText)); //Formato que se va a convertir
+                serializar = new XmlSerializer(typeof(PersonaXml)); //Formato que se va a convertir
                 serializar.Serialize(writer, p); //Aca formatea el objeto y lo deja en ese archivo
             }
             finally
@@ -71,7 +71,7 @@ namespace Entidades
             }
         }
 
-        public static PersonaText Leer() //Convierte el xml en object
+        public static PersonaXml Leer() //Convierte el xml en object
         {
             XmlReader read = null;
             XmlSerializer deserializar = null;
@@ -80,8 +80,8 @@ namespace Entidades
             {
                 read = new XmlTextReader("Persona.xml");
 
-                deserializar = new XmlSerializer(typeof(PersonaText));
-                return (PersonaText)deserializar.Deserialize(read);
+                deserializar = new XmlSerializer(typeof(PersonaXml));
+                return (PersonaXml)deserializar.Deserialize(read);
             }
             finally
             {

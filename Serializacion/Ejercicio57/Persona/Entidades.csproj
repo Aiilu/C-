@@ -41,7 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="PersonaText.cs" />
+    <Compile Include="PersonaXml.cs" />
     <Compile Include="PersonaBin.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

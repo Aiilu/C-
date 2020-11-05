@@ -4,3 +4,9 @@ C:\Users\Morsita\source\repos\Ejercicio42\Excepciones\obj\Debug\Excepciones.cspr
 C:\Users\Morsita\source\repos\Ejercicio42\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
 C:\Users\Morsita\source\repos\Ejercicio42\Excepciones\obj\Debug\Excepciones.dll
 C:\Users\Morsita\source\repos\Ejercicio42\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\lgm14\Desktop\Laboratorio_2\ArchivosDeTexto\Ejercicio54\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\lgm14\Desktop\Laboratorio_2\ArchivosDeTexto\Ejercicio54\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\lgm14\Desktop\Laboratorio_2\ArchivosDeTexto\Ejercicio54\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\lgm14\Desktop\Laboratorio_2\ArchivosDeTexto\Ejercicio54\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\lgm14\Desktop\Laboratorio_2\ArchivosDeTexto\Ejercicio54\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\lgm14\Desktop\Laboratorio_2\ArchivosDeTexto\Ejercicio54\Excepciones\obj\Debug\Excepciones.pdb

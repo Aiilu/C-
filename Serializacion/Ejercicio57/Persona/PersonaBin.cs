@@ -9,6 +9,7 @@ using System.Xml.Serialization;
 
 namespace Persona
 {
+    [Serializable]
     public class PersonaBin
     {
         private string nombre;
