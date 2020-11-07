@@ -1,4 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Local xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Duracion>45</Duracion>
+  <NroDestino>San Rafael</NroDestino>
+  <NroOrigen>Lanús</NroOrigen>
+  <Costo>1.99</Costo>
   <RutaDelArchivo>Local.xml</RutaDelArchivo>
 </Local>

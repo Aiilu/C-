@@ -21,7 +21,7 @@ namespace Entidades
 
             try
             {
-                writer = new StreamWriter(archivo, true);
+                writer = new StreamWriter(archivo);
                 writer.WriteLine(datos);
             }
             finally

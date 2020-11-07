@@ -28,7 +28,7 @@ namespace CentralitaHerencia
             this.franjaHorario = miFranja;
         }
 
-        public Provincial() : base(0, "Hola", "Chau")
+        public Provincial() : base()
         {
 
         }

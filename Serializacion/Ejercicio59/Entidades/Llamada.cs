@@ -14,6 +14,8 @@ namespace CentralitaHerencia
         protected string nroDestino;
         protected string nroOrigen;
 
+        public Llamada() { }
+
         public Llamada(float duracion, string nroDestino, string nroOrigen)
         {
             this.duracion = duracion;
@@ -29,6 +31,10 @@ namespace CentralitaHerencia
             {
                 return this.duracion;
             }
+            set
+            {
+                this.duracion = value;
+            }
         }
 
         public string NroDestino
@@ -37,6 +43,10 @@ namespace CentralitaHerencia
             {
                 return this.nroDestino;
             }
+            set
+            {
+                this.nroDestino = value;
+            }
         }
 
         public string NroOrigen
@@ -44,6 +54,10 @@ namespace CentralitaHerencia
             get
             {
                 return this.nroOrigen;
+            }
+            set
+            {
+                this.nroOrigen = value;
             }
         }
 

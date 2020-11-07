@@ -37,10 +37,7 @@ namespace FormNotepad
             }
         }
 
-        private void Cambiar_OnTextChanged(object sender, EventArgs e)
-        {
-            this.toolStripStatusLabel2.Text = (this.richTextBox1.Text.Count<char>()).ToString() + "Caracteres";
-        }
+
 
         private void StripGuardaComo_OnClick(object sender, EventArgs e)
         {
@@ -76,6 +73,11 @@ namespace FormNotepad
 
                 texto.Guardar(this.path, this.richTextBox1.Text);
             }
+        }
+
+        private void TextChan(object sender, EventArgs e)
+        {
+            this.toolStripStatusLabel2.Text = (this.richTextBox1.Text.Length).ToString() + " Caracteres";
         }
     }
 }

@@ -24,7 +24,19 @@ namespace CentralitaHerencia
             this.coast = costo;
         }
 
-        public Local() : base(0, "Hola", "Chau")
+        public float Costo
+        {
+            get
+            {
+                return this.coast;
+            }
+            set
+            {
+                this.coast = value;
+            }
+        }
+
+        public Local() : base()
         {
 
         }
