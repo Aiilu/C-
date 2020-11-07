@@ -73,7 +73,7 @@ namespace Entidades
 
         public static PersonaXml Leer() //Convierte el xml en object
         {
-            XmlReader read = null;
+            XmlTextReader read = null;
             XmlSerializer deserializar = null;
 
             try

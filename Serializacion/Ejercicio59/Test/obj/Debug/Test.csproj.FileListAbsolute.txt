@@ -28,3 +28,13 @@ C:\Users\lgm14\Desktop\Laboratorio_2\ArchivosDeTexto\Ejercicio55\Test\obj\Debug\
 C:\Users\lgm14\Desktop\Laboratorio_2\ArchivosDeTexto\Ejercicio55\Test\obj\Debug\Test.csproj.CopyComplete
 C:\Users\lgm14\Desktop\Laboratorio_2\ArchivosDeTexto\Ejercicio55\Test\obj\Debug\Test.exe
 C:\Users\lgm14\Desktop\Laboratorio_2\ArchivosDeTexto\Ejercicio55\Test\obj\Debug\Test.pdb
+C:\Users\lgm14\Desktop\Laboratorio_2\Serializacion\Ejercicio59\Test\bin\Debug\Test.exe.config
+C:\Users\lgm14\Desktop\Laboratorio_2\Serializacion\Ejercicio59\Test\bin\Debug\Test.exe
+C:\Users\lgm14\Desktop\Laboratorio_2\Serializacion\Ejercicio59\Test\bin\Debug\Test.pdb
+C:\Users\lgm14\Desktop\Laboratorio_2\Serializacion\Ejercicio59\Test\bin\Debug\Entidades.dll
+C:\Users\lgm14\Desktop\Laboratorio_2\Serializacion\Ejercicio59\Test\bin\Debug\Entidades.pdb
+C:\Users\lgm14\Desktop\Laboratorio_2\Serializacion\Ejercicio59\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\lgm14\Desktop\Laboratorio_2\Serializacion\Ejercicio59\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\lgm14\Desktop\Laboratorio_2\Serializacion\Ejercicio59\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\lgm14\Desktop\Laboratorio_2\Serializacion\Ejercicio59\Test\obj\Debug\Test.exe
+C:\Users\lgm14\Desktop\Laboratorio_2\Serializacion\Ejercicio59\Test\obj\Debug\Test.pdb

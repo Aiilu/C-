@@ -69,10 +69,18 @@ namespace CentralitaHerencia
         {
             //Try catch es para tratar errores (trata esto), el throw te dice simplemente que tenes una excepcion(la tira).
 
-            if(c != llam)
+
+            if (c != llam)
             {
                 c.AgregarLlamada(llam);
-                c.Guardar();
+                try
+                {
+                    c.Guardar();
+                }
+                catch (Exception ex)
+                {
+                    throw ex;
+                }
             }
             else
             {
@@ -159,13 +167,9 @@ namespace CentralitaHerencia
 
             try
             {
-                steam = new StreamWriter("Bitacora", true); //Esto es abrir el archivo, open.
-                steam.WriteLine(DateTime.Now.ToString() + "-Se realizo una llamada"); //Escribe el archivo
+                steam = new StreamWriter("Bitacora.txt", true); //Esto es abrir el archivo, open.
+                steam.WriteLine(DateTime.Now.ToString("f") + "hs -Se realizo una llamada"); //Escribe el archivo
                 return true;
-            }
-            catch(Exception)
-            {
-                throw new Exception();
             }
             finally //Esto siempre se ejecuta
             {
@@ -180,14 +184,14 @@ namespace CentralitaHerencia
         {
             StreamReader leer = null;
 
-            if (!File.Exists("Bitacora"))
+            if (!File.Exists("Bitacora.txt"))
             {
                 throw new FileNotFoundException();
             }
 
             try
             {
-                leer = new StreamReader("Bitacora"); //Esto abre el archivo en modo lectura
+                leer = new StreamReader("Bitacora.txt"); //Esto abre el archivo en modo lectura
                 return leer.ReadToEnd();
             }
             finally

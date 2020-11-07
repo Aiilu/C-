@@ -24,6 +24,11 @@ namespace CentralitaHerencia
             this.coast = costo;
         }
 
+        public Local() : base(0, "Hola", "Chau")
+        {
+
+        }
+
         public override float CostoLlamada
         {
             get
@@ -32,7 +37,16 @@ namespace CentralitaHerencia
             }
         }
 
-        public string RutaDelArchivo { get ; set ; }
+        public string RutaDelArchivo
+        {
+            get
+            {
+                return "Local.xml";
+            }
+            set
+            {
+            }
+        }
 
         private float CalcularCosto()
         {
@@ -67,25 +81,53 @@ namespace CentralitaHerencia
 
         public bool Guardar()
         {
-            if()
-            {
-                XmlTextWriter write = null;
-                XmlSerializer serializar = null;
+            XmlTextWriter write = null;
+            XmlSerializer serializacion = null;
 
+            if(this is Local)
+            {
                 try
                 {
-                    write = XmlTextWriter()
+                    write = new XmlTextWriter(this.RutaDelArchivo, Encoding.UTF8);
+                    write.Formatting = Formatting.Indented;
+                    serializacion = new XmlSerializer(typeof(Local));
+                    serializacion.Serialize(write, this);
+                    return true;
                 }
                 finally
                 {
-
+                    write.Close();
                 }
             }
+            else
+            {
+                throw new InvalidCastException();
+            }
+            
         }
 
         public Local Leer()
         {
-            throw new NotImplementedException();
+            XmlTextReader read = null;
+            XmlSerializer deserializacion = null;
+
+            if(this is Local)
+            {
+                try
+                {
+                    read = new XmlTextReader(this.RutaDelArchivo);
+                    deserializacion = new XmlSerializer(typeof(Local));
+                    return (Local)deserializacion.Deserialize(read);
+                }
+                finally
+                {
+                    read.Close();
+                }
+            }
+            else
+            {
+                throw new InvalidCastException();
+            }
         }
     }
 }

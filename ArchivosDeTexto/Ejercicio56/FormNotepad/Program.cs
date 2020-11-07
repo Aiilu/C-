@@ -16,7 +16,7 @@ namespace FormNotepad
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Ej56());
+            Application.Run(new FormNotepad());
         }
     }
 }

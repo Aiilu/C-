@@ -1,13 +1,17 @@
 ﻿using Entidades;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
+using System.Net;
+using System.Runtime.Serialization.Formatters.Binary;
 using System.Security.Policy;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace CentralitaHerencia
 {
+    [Serializable]
     public class Provincial : Llamada, IGuardar<Provincial>
     {
         public enum Franja { Franja_1, Franja_2, Franja_3}
@@ -24,6 +28,11 @@ namespace CentralitaHerencia
             this.franjaHorario = miFranja;
         }
 
+        public Provincial() : base(0, "Hola", "Chau")
+        {
+
+        }
+
         public override float CostoLlamada
         {
             get
@@ -32,7 +41,16 @@ namespace CentralitaHerencia
             }
         }
 
-        public string RutaDelArchivo { get ; set ; }
+        public string RutaDelArchivo
+        {
+            get
+            {
+                return "Provincial";
+            }
+            set
+            {
+            }
+        }
 
         private float CalcularCosto()
         {
@@ -87,12 +105,51 @@ namespace CentralitaHerencia
 
         public bool Guardar()
         {
-            throw new NotImplementedException();
+            FileStream write = null;
+            BinaryFormatter serializar = null;
+
+            if(this is Provincial)
+            {
+                try
+                {
+                    write = new FileStream(this.RutaDelArchivo, FileMode.Create);
+                    serializar = new BinaryFormatter();
+                    serializar.Serialize(write, this);
+                    return true;
+                }
+                finally
+                {
+                    write.Close();
+                }
+            }
+            else
+            {
+                throw new InvalidCastException();            
+            }
         }
 
         public Provincial Leer()
         {
-            throw new NotImplementedException();
+            FileStream read = null;
+            BinaryFormatter serializar = null;
+
+            if (this is Provincial)
+            {
+                try
+                {
+                    read = new FileStream(this.RutaDelArchivo, FileMode.Open);
+                    serializar = new BinaryFormatter();
+                    return (Provincial)serializar.Deserialize(read);
+                }
+                finally
+                {
+                    read.Close();
+                }
+            }
+            else
+            {
+                throw new InvalidCastException();
+            }
         }
     }
 }

@@ -40,3 +40,9 @@ C:\Users\lgm14\Desktop\Laboratorio_2\ArchivosDeTexto\Ejercicio55\Entidades\obj\D
 C:\Users\lgm14\Desktop\Laboratorio_2\ArchivosDeTexto\Ejercicio55\Entidades\obj\Debug\CentralitaHerencia.csproj.CoreCompileInputs.cache
 C:\Users\lgm14\Desktop\Laboratorio_2\ArchivosDeTexto\Ejercicio55\Entidades\obj\Debug\Entidades.dll
 C:\Users\lgm14\Desktop\Laboratorio_2\ArchivosDeTexto\Ejercicio55\Entidades\obj\Debug\Entidades.pdb
+C:\Users\lgm14\Desktop\Laboratorio_2\Serializacion\Ejercicio59\Entidades\bin\Debug\Entidades.dll
+C:\Users\lgm14\Desktop\Laboratorio_2\Serializacion\Ejercicio59\Entidades\bin\Debug\Entidades.pdb
+C:\Users\lgm14\Desktop\Laboratorio_2\Serializacion\Ejercicio59\Entidades\obj\Debug\CentralitaHerencia.csprojAssemblyReference.cache
+C:\Users\lgm14\Desktop\Laboratorio_2\Serializacion\Ejercicio59\Entidades\obj\Debug\CentralitaHerencia.csproj.CoreCompileInputs.cache
+C:\Users\lgm14\Desktop\Laboratorio_2\Serializacion\Ejercicio59\Entidades\obj\Debug\Entidades.dll
+C:\Users\lgm14\Desktop\Laboratorio_2\Serializacion\Ejercicio59\Entidades\obj\Debug\Entidades.pdb

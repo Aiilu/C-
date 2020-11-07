@@ -27,11 +27,19 @@ namespace Test
             {
                 c = c + l1;
 
+                l1.Guardar();
+
                 c = c + l2;
+
+                l2.Guardar();
 
                 c = c + l3;
 
+                l3.Guardar();
+
                 c = c + l4;
+
+                l4.Guardar();
             }
             catch(CentralitaException ex)
             {
@@ -41,7 +49,14 @@ namespace Test
 
             c.OrdenarLlamadas();
 
-            Console.WriteLine(c.ToString());
+            Console.WriteLine(c.Leer());
+
+            Console.WriteLine("-------------------------");
+
+            Console.WriteLine(l1.Leer());
+            Console.WriteLine(l2.Leer());
+            Console.WriteLine(l3.Leer());
+            Console.WriteLine(l4.Leer());
 
             Console.ReadKey();
         }
