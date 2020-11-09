@@ -1,0 +1,10 @@
+C:\Users\lgm14\Desktop\Laboratorio_2\MetodosDeExtension\Test\Ejercicio72\bin\Debug\Ejercicio72.exe.config
+C:\Users\lgm14\Desktop\Laboratorio_2\MetodosDeExtension\Test\Ejercicio72\bin\Debug\Ejercicio72.exe
+C:\Users\lgm14\Desktop\Laboratorio_2\MetodosDeExtension\Test\Ejercicio72\bin\Debug\Ejercicio72.pdb
+C:\Users\lgm14\Desktop\Laboratorio_2\MetodosDeExtension\Test\Ejercicio72\bin\Debug\Entidades.dll
+C:\Users\lgm14\Desktop\Laboratorio_2\MetodosDeExtension\Test\Ejercicio72\bin\Debug\Entidades.pdb
+C:\Users\lgm14\Desktop\Laboratorio_2\MetodosDeExtension\Test\Ejercicio72\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\lgm14\Desktop\Laboratorio_2\MetodosDeExtension\Test\Ejercicio72\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\lgm14\Desktop\Laboratorio_2\MetodosDeExtension\Test\Ejercicio72\obj\Debug\Test.csproj.CopyComplete
+C:\Users\lgm14\Desktop\Laboratorio_2\MetodosDeExtension\Test\Ejercicio72\obj\Debug\Ejercicio72.exe
+C:\Users\lgm14\Desktop\Laboratorio_2\MetodosDeExtension\Test\Ejercicio72\obj\Debug\Ejercicio72.pdb
