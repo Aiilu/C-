@@ -1,0 +1,10 @@
+C:\Users\lgm14\source\repos\Ejercicio61\VistaConsola\bin\Debug\VistaConsola.exe.config
+C:\Users\lgm14\source\repos\Ejercicio61\VistaConsola\bin\Debug\VistaConsola.exe
+C:\Users\lgm14\source\repos\Ejercicio61\VistaConsola\bin\Debug\VistaConsola.pdb
+C:\Users\lgm14\source\repos\Ejercicio61\VistaConsola\bin\Debug\Entidades.dll
+C:\Users\lgm14\source\repos\Ejercicio61\VistaConsola\bin\Debug\Entidades.pdb
+C:\Users\lgm14\source\repos\Ejercicio61\VistaConsola\obj\Debug\VistaConsola.csprojAssemblyReference.cache
+C:\Users\lgm14\source\repos\Ejercicio61\VistaConsola\obj\Debug\VistaConsola.csproj.CoreCompileInputs.cache
+C:\Users\lgm14\source\repos\Ejercicio61\VistaConsola\obj\Debug\VistaConsola.csproj.CopyComplete
+C:\Users\lgm14\source\repos\Ejercicio61\VistaConsola\obj\Debug\VistaConsola.exe
+C:\Users\lgm14\source\repos\Ejercicio61\VistaConsola\obj\Debug\VistaConsola.pdb
