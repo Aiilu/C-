@@ -1,0 +1,10 @@
+C:\Users\lgm14\source\repos\Ejercicio63\Form63\bin\Debug\Form63.exe.config
+C:\Users\lgm14\source\repos\Ejercicio63\Form63\bin\Debug\Form63.exe
+C:\Users\lgm14\source\repos\Ejercicio63\Form63\bin\Debug\Form63.pdb
+C:\Users\lgm14\source\repos\Ejercicio63\Form63\obj\Debug\Form63.csprojAssemblyReference.cache
+C:\Users\lgm14\source\repos\Ejercicio63\Form63\obj\Debug\Form63.Form63.resources
+C:\Users\lgm14\source\repos\Ejercicio63\Form63\obj\Debug\Form63.Properties.Resources.resources
+C:\Users\lgm14\source\repos\Ejercicio63\Form63\obj\Debug\Form63.csproj.GenerateResource.cache
+C:\Users\lgm14\source\repos\Ejercicio63\Form63\obj\Debug\Form63.csproj.CoreCompileInputs.cache
+C:\Users\lgm14\source\repos\Ejercicio63\Form63\obj\Debug\Form63.exe
+C:\Users\lgm14\source\repos\Ejercicio63\Form63\obj\Debug\Form63.pdb
