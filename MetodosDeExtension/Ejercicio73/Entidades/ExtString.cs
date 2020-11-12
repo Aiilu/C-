@@ -20,5 +20,14 @@ namespace Entidades
             }
         }
 
+        public static int CdS(this string var)
+        {
+            return var.Count(signos);
+        }
+
+        private static bool signos(char a)
+        {
+            return (a == '.' || a == ',' || a == ';');
+        }
     }
 }

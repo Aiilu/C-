@@ -11,11 +11,13 @@ namespace Ejercicio73
     {
         static void Main(string[] args)
         {
-            string hola = "hola, como andas?";
+            string hola = " haa ";
             int cant;
             hola.CantidadDeSignos(out cant);
             Console.WriteLine(cant);
+            Console.ReadKey(); 
 
+            Console.WriteLine(hola.CdS());
             Console.ReadKey();
 
         }

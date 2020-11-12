@@ -31,7 +31,6 @@ namespace FormPersona
 
             foreach(Persona p in listPersonas)
             {
-                //this.lstPersonas.Items.Add((p.ID, p.Nombre, p.Apellido).ToString());
                 this.lstPersonas.Items.Add(p);
             }
         }

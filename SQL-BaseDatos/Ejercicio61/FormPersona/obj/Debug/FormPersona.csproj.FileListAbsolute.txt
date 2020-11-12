@@ -11,3 +11,16 @@ C:\Users\lgm14\source\repos\Ejercicio61\FormPersona\bin\Debug\Entidades.pdb
 C:\Users\lgm14\source\repos\Ejercicio61\FormPersona\obj\Debug\FormPersona.csproj.CopyComplete
 C:\Users\lgm14\source\repos\Ejercicio61\FormPersona\obj\Debug\FormPersona.exe
 C:\Users\lgm14\source\repos\Ejercicio61\FormPersona\obj\Debug\FormPersona.pdb
+C:\Users\lgm14\Desktop\Laboratorio_2\SQL-BaseDatos\Ejercicio61\FormPersona\bin\Debug\FormPersona.exe.config
+C:\Users\lgm14\Desktop\Laboratorio_2\SQL-BaseDatos\Ejercicio61\FormPersona\bin\Debug\FormPersona.exe
+C:\Users\lgm14\Desktop\Laboratorio_2\SQL-BaseDatos\Ejercicio61\FormPersona\bin\Debug\FormPersona.pdb
+C:\Users\lgm14\Desktop\Laboratorio_2\SQL-BaseDatos\Ejercicio61\FormPersona\bin\Debug\Entidades.dll
+C:\Users\lgm14\Desktop\Laboratorio_2\SQL-BaseDatos\Ejercicio61\FormPersona\bin\Debug\Entidades.pdb
+C:\Users\lgm14\Desktop\Laboratorio_2\SQL-BaseDatos\Ejercicio61\FormPersona\obj\Debug\FormPersona.csprojAssemblyReference.cache
+C:\Users\lgm14\Desktop\Laboratorio_2\SQL-BaseDatos\Ejercicio61\FormPersona\obj\Debug\FormPersona.FormPersona.resources
+C:\Users\lgm14\Desktop\Laboratorio_2\SQL-BaseDatos\Ejercicio61\FormPersona\obj\Debug\FormPersona.Properties.Resources.resources
+C:\Users\lgm14\Desktop\Laboratorio_2\SQL-BaseDatos\Ejercicio61\FormPersona\obj\Debug\FormPersona.csproj.GenerateResource.cache
+C:\Users\lgm14\Desktop\Laboratorio_2\SQL-BaseDatos\Ejercicio61\FormPersona\obj\Debug\FormPersona.csproj.CoreCompileInputs.cache
+C:\Users\lgm14\Desktop\Laboratorio_2\SQL-BaseDatos\Ejercicio61\FormPersona\obj\Debug\FormPersona.csproj.CopyComplete
+C:\Users\lgm14\Desktop\Laboratorio_2\SQL-BaseDatos\Ejercicio61\FormPersona\obj\Debug\FormPersona.exe
+C:\Users\lgm14\Desktop\Laboratorio_2\SQL-BaseDatos\Ejercicio61\FormPersona\obj\Debug\FormPersona.pdb

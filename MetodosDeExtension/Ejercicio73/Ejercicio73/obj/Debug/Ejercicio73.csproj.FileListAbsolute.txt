@@ -8,3 +8,13 @@ C:\Users\lgm14\source\repos\Test\Ejercicio73\obj\Debug\Ejercicio73.csproj.CoreCo
 C:\Users\lgm14\source\repos\Test\Ejercicio73\obj\Debug\Ejercicio73.csproj.CopyComplete
 C:\Users\lgm14\source\repos\Test\Ejercicio73\obj\Debug\Ejercicio73.exe
 C:\Users\lgm14\source\repos\Test\Ejercicio73\obj\Debug\Ejercicio73.pdb
+C:\Users\lgm14\Desktop\Laboratorio_2\MetodosDeExtension\Ejercicio73\Ejercicio73\bin\Debug\Ejercicio73.exe.config
+C:\Users\lgm14\Desktop\Laboratorio_2\MetodosDeExtension\Ejercicio73\Ejercicio73\bin\Debug\Ejercicio73.exe
+C:\Users\lgm14\Desktop\Laboratorio_2\MetodosDeExtension\Ejercicio73\Ejercicio73\bin\Debug\Ejercicio73.pdb
+C:\Users\lgm14\Desktop\Laboratorio_2\MetodosDeExtension\Ejercicio73\Ejercicio73\bin\Debug\Entidades.dll
+C:\Users\lgm14\Desktop\Laboratorio_2\MetodosDeExtension\Ejercicio73\Ejercicio73\bin\Debug\Entidades.pdb
+C:\Users\lgm14\Desktop\Laboratorio_2\MetodosDeExtension\Ejercicio73\Ejercicio73\obj\Debug\Ejercicio73.csprojAssemblyReference.cache
+C:\Users\lgm14\Desktop\Laboratorio_2\MetodosDeExtension\Ejercicio73\Ejercicio73\obj\Debug\Ejercicio73.csproj.CoreCompileInputs.cache
+C:\Users\lgm14\Desktop\Laboratorio_2\MetodosDeExtension\Ejercicio73\Ejercicio73\obj\Debug\Ejercicio73.csproj.CopyComplete
+C:\Users\lgm14\Desktop\Laboratorio_2\MetodosDeExtension\Ejercicio73\Ejercicio73\obj\Debug\Ejercicio73.exe
+C:\Users\lgm14\Desktop\Laboratorio_2\MetodosDeExtension\Ejercicio73\Ejercicio73\obj\Debug\Ejercicio73.pdb

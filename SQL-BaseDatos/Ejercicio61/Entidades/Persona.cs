@@ -54,5 +54,10 @@ namespace Entidades
                 this.apellido = value;
             }
         }
+
+        public override string ToString()
+        {
+            return this.Nombre + " " + this.Apellido;
+        }
     }
 }
